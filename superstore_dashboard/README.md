@@ -2,6 +2,14 @@
 
 Kaggle Superstore Sales 데이터로 만든 Plotly Dash 대시보드입니다.
 
+## 대시보드 화면
+
+**필터 + ① 월별 매출 추세 · ② 지역 × 카테고리 구성 · ③ 라인당 매출 분포**
+<img width="1710" height="987" alt="dashboard(1)" src="https://github.com/user-attachments/assets/7610eff7-0e1b-40d5-894f-e1cb3673b626" />
+
+**④ 판매 건수 vs 건당 평균 매출 (하위 카테고리)**
+<img width="1710" height="465" alt="dashboard(2)" src="https://github.com/user-attachments/assets/1eb1a168-44a6-446a-bccf-0d97f1e0643f" />
+
 ## 1. 환경 설치
 ```bash
 python3 -m venv .venv
